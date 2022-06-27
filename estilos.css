@@ -1,0 +1,48 @@
+ *{
+    border-color: white;
+    background: lightcyan;
+    font-size: large;
+    border-radius: 10px;
+    border-color: blue;
+    margin: auto;
+    
+}
+
+.menu__title{
+    color: blueviolet;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#sub-title{
+    color: whitesmoke;
+    text-align: center;
+}
+
+ul li {
+    text-align: center;
+    list-style: none;
+}
+
+#html5{
+    margin: auto;
+    
+}
+
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+    color: aquamarine;
+    
+}
+
+img{
+display: block;
+margin: auto;
+}
+
+div,.pie2{
+    background-color: whitesmoke;
+}
